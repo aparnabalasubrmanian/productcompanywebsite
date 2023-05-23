@@ -551,19 +551,19 @@ s
 ## OUTPUT:
 
 ### Home Page:
-![output](.out1.png)
+![output](./out1.png)
 ### product:
-![output](.out2.png)
+![output](./out2.png)
 ### people:
-![output](.out3.png)
-![output](.out4.png)
-![output](.out5.png)
-![output](.out6.png)
+![output](./out3.png)
+![output](./out4.png)
+![output](./out5.png)
+![output](./out6.png)
 ### contact:
-![output](.out7.png)
+![output](./out7.png)
 
 ## HTML VALIDATOR:
-![HTML VALIDATOR](.valid.png)
+![HTML VALIDATOR](./valid.png)
 
 ## Result:
 
